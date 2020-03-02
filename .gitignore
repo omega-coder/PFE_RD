@@ -1,1 +1,5 @@
 .vscode
+data/train/*.jpeg
+data/test/*.jpeg
+data/train_converted/*.jpeg
+logs/*
